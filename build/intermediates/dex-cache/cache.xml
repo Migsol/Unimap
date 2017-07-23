@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c7400eac5ba167cff9df3d592b802211afdf0add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_4f72ab8d9b18b710128e9206d95be0e7c7547cae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.2.0_f9c712c5c650f7c23001874ce34c96d59b56f090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_358940613eb12b0bb05fd6bb79b2b719133f5c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_73b24470a7afe6fb462e48da9fc44e85744f8f09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_d43145fe87b9dec6389f40c088be67779b1d865b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d988873fd6b12b49740da7590b5baf5585084607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_543a159b4ead9414bedff10e745cdfdc225931ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_956658abdf22c15d18653b989bae42f48a0bef48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_0e3962bceae9e33ef13752cd0becd12e11fafa2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_eb77df78d4d3301170e9166936d83d8b534b4d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_9749f09874ac66e28514f410be9a6c319cd2f558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_35404cb29eadac1834e1bd74e230609ee35fbd0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_7d4df12ff65bee199d8264dd755b5b3cb34b8480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes-PhotoView-1.3.1_589e011f6df3908bbb79d4320e913ff75d576736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Miguel Soler\Desktop\poyects\Unimap\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_97c36bbf4c298f22e5f6a8ede38d07fb0c351b4f.jar" />
+    </item>
+
+</items>

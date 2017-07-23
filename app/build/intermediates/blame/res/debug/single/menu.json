@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_en_activity.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\menu\\menu_en_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_en_activity.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\menu\\menu_en_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_en_activity.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\menu\\menu_en_activity.xml"
+    }
+]

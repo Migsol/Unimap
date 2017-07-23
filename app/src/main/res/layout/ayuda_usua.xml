@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:paddingTop="10dp">
+
+    <TextView
+        android:text="Manual de Usuario "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView_manual_usuario"
+        android:gravity="center"
+        android:textStyle="normal|bold"
+        android:textSize="18sp"
+        android:textColor="@android:color/background_dark" />
+
+    <ImageView
+        android:src="@drawable/manualdeusuario"
+        android:id="@+id/imageView_manual_usuaario"
+        android:layout_width="100dp"
+        android:layout_gravity="center"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:text="¡Desde aquí podrás obtener el manual de usuario! "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView_descripcion_manual_usuario"
+        android:textColor="@android:color/background_dark"
+        android:gravity="center"
+        android:textStyle="normal|bold"
+        android:textSize="14sp"
+        android:padding="10dp" />
+
+    <Button
+        android:text="Descargar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_descargar_manual_usuario"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@android:color/background_light"
+        android:textStyle="normal|bold"
+        android:textSize="14sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
+</LinearLayout>

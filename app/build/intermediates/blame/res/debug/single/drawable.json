@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rojo.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\rojo.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punto_referencia.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\punto_referencia.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unimar_logo.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\unimar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manualdeusuario.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\manualdeusuario.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manualdesistema.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\manualdesistema.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_salir.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_unimap.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\logo_unimap.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_salir.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_unimar.jpg",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\mapa_unimar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notificacionicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\notificacionicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notificacionicono.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\notificacionicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapaicono.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\mapaicono.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horarioicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\horarioicono.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_rayo.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\icono_rayo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_unimar.jpg",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\mapa_unimar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_notificacion.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\icono_notificacion.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_unimap.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\logo_unimap.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_notificacion.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\icono_notificacion.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ayudaicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\ayudaicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punto_referencia.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\punto_referencia.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ayudaicono.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\ayudaicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rojo.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\rojo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unimar_logo.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\unimar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_salir.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verde.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\verde.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horarioicono.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\horarioicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_rayo.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\icono_rayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gris.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\gris.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_unimap.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\logo_unimap.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ayudaicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\ayudaicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notificacionicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\notificacionicono.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verde.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapaicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\mapaicono.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rojo.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\rojo.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verde.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\verde.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_rayo.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\icono_rayo.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unimar_logo.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\unimar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gris.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\gris.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapa_unimar.jpg",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\mapa_unimar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manualdesistema.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\manualdesistema.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horarioicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\horarioicono.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapaicono.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\mapaicono.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_profesor.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\icono_profesor.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punto_referencia.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\punto_referencia.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_notificacion.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\drawable\\icono_notificacion.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manualdeusuario.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\manualdeusuario.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gris.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\gris.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_profesor.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\icono_profesor.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_profesor.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\drawable\\icono_profesor.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manualdesistema.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\manualdesistema.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manualdeusuario.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\drawable\\manualdeusuario.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

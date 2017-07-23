@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="170dp"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:text="BIENVENIDO(A)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_bienvenido"
+        android:gravity="center_vertical|center"
+        android:textStyle="normal|bold"
+        android:textSize="30sp"
+        android:textColor="@android:color/background_light"
+        android:padding="20dp" />
+
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_nombre_usuario"
+        android:gravity="center_vertical|center"
+        android:textStyle="normal|bold"
+        android:textSize="25sp"
+        android:textColor="@android:color/background_light" />
+
+</LinearLayout>

@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView_1">
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/background_light"
+            android:id="@+id/rl"
+            android:paddingTop="20dp">
+
+
+            <EditText
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/editTextbuscar"
+                android:layout_width="180dp"
+                android:hint="Ingrese Dato"
+                android:padding="10dp"
+                android:layout_marginLeft="350dp" />
+
+            <Button
+                android:text="Consultar"
+                android:layout_width="100dp"
+                android:layout_height="35dp"
+                android:id="@+id/buttonbuscar"
+                android:layout_marginLeft="135dp"
+                android:layout_alignBottom="@+id/editTextbuscar"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="500dp"
+                android:background="@color/colorPrimaryDark"
+                android:textColor="@android:color/background_light"
+                android:textStyle="normal|bold"
+                android:textSize="14sp"/>
+
+
+            <TextView
+                android:text="Auris Estaba"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Administracción de Redes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_1"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="11:50am-12:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_1"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_1"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+
+            <TextView
+                android:text="Jhonny Granado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Calculo Númerico"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_2"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="5:50pm-7:00pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_2"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_2"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+            <TextView
+                android:text="Darbelys Salazar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_3"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_3"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_3"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+            <TextView
+                android:text="Raul Ortuño"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_4"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_4"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_4"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_4"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Andres Pedroza"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_5"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_5"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_5"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_5"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Abraham Salgado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_6"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_6"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_6"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_6"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Ramses Casanova"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_7"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_7"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_7"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_7"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Marjorie Estaba"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_8"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_8"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_8"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_8"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+
+            <TextView
+                android:text="Michel Parra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_9"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_9"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_9"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_9"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="profesor10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_10"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_10"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_10"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_10"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_11"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_11"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_11"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_11"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text=" Profesor12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_12"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_12"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_12"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_12"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_13"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_13"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_13"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_13"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text=" Profesor14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_14"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_14"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_14"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_14"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor15 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_15"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_15"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_15"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_15"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_16"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_16"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_16"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_16"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor17 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_17"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_17"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_17"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_17"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor18 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_18"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_18"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_18"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_18"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text=" Profesor19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_19"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_19"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_19"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_19"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor20 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_20"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_20"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_20"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_20"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor21 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_21"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_21"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_21"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_21"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor22 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_22"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_22"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_22"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_22"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor23 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_23"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_23"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_23"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_23"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor24 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_24"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_24"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_24"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_24"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text=" Profesor25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_25"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_25"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_25"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_25"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor26 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_26"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_26"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_26"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_26"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor27 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_27"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_27"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_27"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_27"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Profesor28 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_28"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_28"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_28"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_28"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+            <TextView
+                android:text="Profesor29 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_29"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_29"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_29"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_29"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+            <TextView
+                android:text="Profesor30 "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_profesor_30"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="300dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="Teleinformática"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nombre_materia_30"
+                android:paddingTop="380dp"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:text="2:50pm-3:50pm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hora_clase_30"
+                android:paddingTop="450dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:text="Aula-10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/numero_aula_30"
+                android:paddingTop="500dp"
+                android:visibility="invisible" />
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView2"
+                android:src="@drawable/mapa_unimar"
+                android:paddingTop="80dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/nombre_profesor_2"
+                android:layout_toRightOf="@+id/hora_clase_2"
+                android:layout_toEndOf="@+id/hora_clase_2"
+                android:layout_marginBottom="150dp"
+                android:id="@+id/imageButton_rojo"
+                android:background="@android:color/transparent"
+                android:layout_marginLeft="450dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/nombre_materia_2"
+                android:layout_toRightOf="@+id/editTextbuscar"
+                android:layout_toEndOf="@+id/editTextbuscar"
+                android:layout_marginBottom="70dp"
+                android:id="@+id/imageButton_verde"
+                android:background="@android:color/transparent"
+                android:layout_marginLeft="105dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/imageButton_verde"
+                android:layout_toRightOf="@+id/buttonbuscar"
+                android:layout_toEndOf="@+id/buttonbuscar"
+                android:layout_marginStart="110dp"
+                android:id="@+id/imageButton_gris"
+                android:background="@android:color/transparent" />
+
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignLeft="@+id/imageButton_verde"
+                android:layout_alignStart="@+id/imageButton_verde"
+                android:id="@+id/imageButton_verde2"
+                android:layout_marginTop="150dp"
+                android:layout_marginLeft="100dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/imageButton_gris"
+                android:layout_toEndOf="@+id/imageButton_gris"
+                android:layout_marginLeft="50dp"
+                android:layout_marginStart="50dp"
+                android:id="@+id/imageButton_verde3" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignTop="@+id/imageButton_verde"
+                android:layout_alignRight="@+id/nombre_materia_1"
+                android:layout_alignEnd="@+id/nombre_materia_1"
+                android:id="@+id/imageButton_verde4" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/imageButton_verde4"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/imageButton_verde5"
+                android:layout_margin="-10dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imageButton_verde6"
+                android:layout_marginTop="150dp"
+                android:layout_marginLeft="70dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_below="@+id/imageButton_verde2"
+                android:id="@+id/imageButton_verde7"
+                android:layout_margin="120dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignTop="@+id/imageButton_rojo"
+                android:layout_alignRight="@+id/hora_clase_1"
+                android:layout_alignEnd="@+id/hora_clase_1"
+                android:id="@+id/imageButton_verde8" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_below="@+id/imageButton_verde"
+                android:layout_alignLeft="@+id/imageButton_verde9"
+                android:layout_alignStart="@+id/imageButton_verde9"
+                android:id="@+id/imageButton_verde10"
+                android:layout_marginLeft="800dp"
+                android:layout_marginTop="30dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imageButton_rojo2"
+                android:layout_marginLeft="865dp"
+                android:layout_marginTop="300dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/hora_clase_1"
+                android:layout_toRightOf="@+id/imageButton_verde6"
+                android:layout_toEndOf="@+id/imageButton_verde6"
+                android:id="@+id/imageButton_rojo3"
+                android:layout_margin="310dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/imageButton_verde6"
+                android:id="@+id/imageButton_rojo4"
+                android:layout_marginLeft="50dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignRight="@+id/numero_aula_2"
+                android:layout_alignEnd="@+id/numero_aula_2"
+                android:id="@+id/imageButton_rojo5"
+                android:layout_marginTop="110dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/nombre_materia_2"
+                android:layout_toRightOf="@+id/numero_aula_2"
+                android:layout_toEndOf="@+id/numero_aula_2"
+                android:id="@+id/imageButton_rojo6"
+                android:layout_marginLeft="600dp"
+                android:layout_marginBottom="290dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imageButton_rojo7"
+                android:layout_marginTop="615dp"
+                android:layout_marginLeft="335dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_above="@+id/imageButton_verde5"
+                android:id="@+id/imageButton_rojo8"
+                android:layout_marginLeft="300dp"
+                android:layout_margin="210dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_marginStart="850dp"
+                android:id="@+id/imageButton_rojo9"
+                android:layout_marginTop="550dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/imageButton_rojo10"
+                android:layout_marginLeft="750dp"
+                android:layout_marginTop="550dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/imageButton_verde6"
+                android:id="@+id/imageButton_gris2"
+                android:layout_marginLeft="550dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/imageButton_rojo4"
+                android:layout_alignLeft="@+id/imageButton_rojo8"
+                android:layout_alignStart="@+id/imageButton_rojo8"
+                android:id="@+id/imageButton_gris3"
+                android:layout_marginLeft="500dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_toRightOf="@+id/imageButton_rojo9"
+                android:layout_toEndOf="@+id/imageButton_rojo9"
+                android:id="@+id/imageButton_gris4"
+                android:layout_marginTop="580dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignTop="@+id/imageButton_verde2"
+                android:layout_alignRight="@+id/imageButton_gris4"
+                android:layout_alignEnd="@+id/imageButton_gris4"
+                android:id="@+id/imageButton_gris5"
+                android:layout_marginLeft="500dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignTop="@+id/imageButton_rojo6"
+                android:id="@+id/imageButton_gris6"
+                android:layout_marginLeft="200dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_above="@+id/imageButton_rojo"
+                android:layout_toLeftOf="@+id/imageButton_verde7"
+                android:layout_toStartOf="@+id/imageButton_verde7"
+                android:id="@+id/imageButton_gris7"
+                android:layout_marginBottom="10dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignTop="@+id/imageButton_rojo10"
+                android:layout_toLeftOf="@+id/imageButton_verde3"
+                android:layout_toStartOf="@+id/imageButton_verde3"
+                android:id="@+id/imageButton_gris8" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/imageButton_verde9"
+                android:layout_below="@+id/imageButton_verde2"
+                android:layout_marginLeft="500dp"
+                android:layout_marginTop="500dp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignBottom="@+id/imageButton_verde8"
+                android:layout_marginLeft="500dp"
+                android:layout_marginStart="570dp"
+                android:id="@+id/imageButton_gris9" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:layout_alignLeft="@+id/imageButton_verde8"
+                android:layout_alignStart="@+id/imageButton_verde8"
+                android:id="@+id/imageButton_gris10"
+                android:elevation="1dp"
+                android:layout_marginTop="800dp" />
+
+
+        </RelativeLayout>
+
+    </HorizontalScrollView>
+
+
+
+</ScrollView>

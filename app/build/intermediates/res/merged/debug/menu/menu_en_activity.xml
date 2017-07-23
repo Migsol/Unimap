@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="htt://schemas.android.com/tools"
+    tools:context=".Menu">
+
+    <item
+        android:id="@+id/loo"
+        android:title="loo"
+        android:icon="@drawable/unimar_logo"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+    <item
+        android:id="@+id/modouso"
+        android:title="Modo de Uso"
+        android:icon="@drawable/icono_rayo"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menu_normal"
+                    android:orderInCategory="1"
+                    android:checked="true"
+                    android:title="Normal"/>
+            </group>
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/salirapp"
+        android:title="Salir"
+        android:icon="@drawable/icono_salir"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+
+
+</menu>
+
+

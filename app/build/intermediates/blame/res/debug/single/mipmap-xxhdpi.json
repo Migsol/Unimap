@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_unimap.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Unimap\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_unimap.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_unimap.png",
+        "source": "C:\\Users\\Miguel Soler\\Desktop\\poyects\\Android\\Unimap\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_unimap.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_unimap.png",
+        "source": "C:\\Users\\hp\\Desktop\\AplicacionAndroid\\Unimap\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_unimap.png"
+    }
+]

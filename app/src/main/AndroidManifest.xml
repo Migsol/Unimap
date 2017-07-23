@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.unimap">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_unimap"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+
+        </activity>
+        <activity android:name=".MenuAdmi"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MenuDeca"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MenuEstu"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MenuProfe"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MenuSuperior"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name=".Horario"></activity>
+
+        <activity android:name=".NotificacionAdmi"
+            android:screenOrientation="portrait">
+
+
+        </activity>
+
+        <activity android:name=".NotificacionProfe"
+            android:screenOrientation="portrait">
+
+
+        </activity>
+
+        <activity android:name=".Mapa"
+            android:windowSoftInputMode="stateAlwaysHidden"
+
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".AyudaAdmi"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AyudaUsua"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".SplashScreenAdmi"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".SplashScreenDeca"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".SplashScreenEstu"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".SplashScreenProfe"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".SplashScreenSupe"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name=".NuevoMensaje"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".MostrarNotificacionDecano"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".MostrarNotificacionEstu"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".DetalleMensajeDecano"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".DetalleMensajeEstu"
+            android:screenOrientation="portrait">
+        </activity>
+
+
+    </application>
+
+</manifest>
